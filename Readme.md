@@ -82,7 +82,7 @@ Timeline:
 
 
 
-|<p>iTme</p><p>Date and </p>|<p>ls</p><p>Detai</p>|
+|<p>Date and Time</p>|<p>Details</p>|
 | - | - |
 |27 March 2021, 10:30 AM|Problem Statement Release|
 |30 March 2021, 9 AM|Work on the problem statement|
