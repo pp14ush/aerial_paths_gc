@@ -1,14 +1,14 @@
-﻿|![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png) |![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)|
+﻿![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png) ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)
 
-Aeromodelling GC 2021
+####Aeromodelling GC 2021
 
-Problem Statement
+##Problem Statement
 
-Introduction:
+#Introduction:
 
 This year’s GC Problem Statement aims to give participants exposure to various fields of drone control and planning. Accordingly, the problem statement will consist of 3 major tasks - Controller Tuning, Motion Planning and Trajectory construction. The PS also comes with a supplementary document for extra resources, which will be provided to you later.
 
-Path Planning:
+#Path Planning:
 
 The domain for this competition will be a 400 m x 400 m square which is split into a 40x40 grid. Some squares of the grid are assigned a value based on the following key :
  ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.003.png)
@@ -18,7 +18,7 @@ Attached below is the grid we will be using.A higher-quality image can be found 
 
 ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.006.png)
 
-Trajectory Construction:
+#Trajectory Construction:
 
 To navigate the domain, teams will have to define set points and then construct trajectory files in the sim’s appropriate format. Optimal Trajectories will help teams reach points quicker and collect more points in the run. Teams can learn how to construct these files using supplementary material.
 
