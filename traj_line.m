@@ -1,5 +1,5 @@
 function [desired_state] = traj_line(t, ~)
-
+%This file can be edited in whatever way you wish but you are not suppsed to edit the line above this 
 t_max = 20;
 t = max(0, min(t, t_max));
 t = t/t_max;
