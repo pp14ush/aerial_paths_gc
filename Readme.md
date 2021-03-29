@@ -105,4 +105,4 @@ Submission:
 In case of any queries, please contact: ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.010.png)</br>
 Aman Malekar [7972780001]
 
-![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.011.png)
+![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.011.png)
