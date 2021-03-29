@@ -1,4 +1,4 @@
-﻿![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png)![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)
+﻿![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png) \ \ \ \ \ ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)
 
 Aeromodelling GC 2021
 
@@ -31,9 +31,9 @@ General Rules:
 The following are the basic ground rules which need to be established before anything:
 
 1) According to the general rule for mid-prep GCs, a maximum of 10 members are allowed in a team. The minimum number of members is one.
-1) Only one team will be allowed to participate from each hostel.
-1) Submissions will be judged objectively. The package has its own algorithm to output marks based on controller parameters.
-1) You are not supposed to modifythe pieces of code that have not been indicated in the comments. We will comment on which parts can be edited and we are listing them here:-
+2) Only one team will be allowed to participate from each hostel.
+3) Submissions will be judged objectively. The package has its own algorithm to output marks based on controller parameters.
+4) You are not supposed to modifythe pieces of code that have not been indicated in the comments. We will comment on which parts can be edited and we are listing them here:-
 
 ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.008.png)
 
@@ -42,8 +42,8 @@ this is the controller.m PID section
 ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.009.jpeg)
 
 5) This is traj\_line.m, these are the only places where changes are allowed, and if this is violated, severe penalties will follow.
-5) Participants cannot change the Simulator’s Dynamic parameters (mass, thrust. gravity, etc.)
-5) Plagiarism of any form will lead to disqualification and docking of points overall.
+6) Participants cannot change the Simulator’s Dynamic parameters (mass, thrust. gravity, etc.)
+7) Plagiarism of any form will lead to disqualification and docking of points overall.
 
 Teams-
 
@@ -59,7 +59,7 @@ Teams-
 
 Strict actions will be taken if anyone is found to take part in GCs from another hostel.
 
-- The following Aeromodelling Club members are not allowed to participate:
+The following Aeromodelling Club members are not allowed to participate:
 - Aman Malekar
 - Piyush Porwal
 - Jai Jobanputra
@@ -86,9 +86,10 @@ Timeline:
 | - | - |
 |27 March 2021, 10:30 AM|Problem Statement Release|
 |30 March 2021, 9 AM|Work on the problem statement|
-|1 April 2021, 9 AM||
+|1 April 2021, 9 AM|Work on the problem statement|
 |1 April 2021, 9 AM|Submission deadline. Late submissions will be given a penalty as described in the guidelines.|
 |5 April 2021, 5 PM|Results Declaration|
+
 Submission:
 
 - The deadline for submission is 1st April 9 am.
