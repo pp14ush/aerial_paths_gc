@@ -11,7 +11,9 @@ This year’s GC Problem Statement aims to give participants exposure to various
 ### Path Planning:
 
 The domain for this competition will be a 400 m x 400 m square which is split into a 40x40 grid. Some squares of the grid are assigned a value based on the following key :
+
  ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.003.png)
+ 
 To score a point, you will need to be above the grid’s center with a tolerance of 2.5m. Starting at (0,0), Teams have a total run time of 30 seconds, over which the team will have to collect points by flying over the grid squares. The team with the maximum score wins.
 
 Attached below is the grid we will be using.A higher-quality image can be found [here](https://drive.google.com/file/d/11Hzk64UPHZFR-3z71hd3HYkumrHc5HY2/view?usp=sharing).
@@ -22,7 +24,7 @@ Attached below is the grid we will be using.A higher-quality image can be found 
 
 To navigate the domain, teams will have to define set points and then construct trajectory files in the sim’s appropriate format. Optimal Trajectories will help teams reach points quicker and collect more points in the run. Teams can learn how to construct these files using supplementary material.
 
-Controller Tuning:
+### Controller Tuning:
 
 To follow a trajectory, the drone in the simulator uses a set of PID controllers. Teams will have to tune these PID controllers to achieve the agility and stabilitythey seek to follow their constructed trajectories accurately. A poorly tuned controller can either be too sluggish, meaning the drone will be slow to traverse the domain. An aggressively tuned controller can cause significant overshoot and instability, which can cause the drone to miss set points.
 
