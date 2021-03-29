@@ -23,7 +23,7 @@ To score a point, you will need to be above the grid’s center with a tolerance
 Attached below is the grid we will be using.A higher-quality image can be found [here](https://drive.google.com/file/d/11Hzk64UPHZFR-3z71hd3HYkumrHc5HY2/view?usp=sharing).
 
 <p align="center">
- ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.006.png)
+ <img align="center"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.006.png">
 </p>
 
 ### Trajectory Construction:
