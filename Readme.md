@@ -12,7 +12,7 @@ Path Planning:
 
 The domain for this competition will be a 400 m x 400 m square which is split into a 40x40 grid. Some squares of the grid are assigned a value based on the following key :
  ![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.003.png)
-To score a point, you will need to be above the grid’s center with a tolerance of 2.5m. Starting at (0,0), ![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.005.png)Teams have a total run time of 30 seconds, over which the team will have to collect points by flying over the grid squares. The team with the maximum score wins.
+To score a point, you will need to be above the grid’s center with a tolerance of 2.5m. Starting at (0,0), Teams have a total run time of 30 seconds, over which the team will have to collect points by flying over the grid squares. The team with the maximum score wins.
 
 Attached below is the grid we will be using.A higher-quality image can be found [here](https://drive.google.com/file/d/11Hzk64UPHZFR-3z71hd3HYkumrHc5HY2/view?usp=sharing).
 
