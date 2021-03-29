@@ -11,12 +11,12 @@ This year’s GC Problem Statement aims to give participants exposure to various
 Path Planning:
 
 The domain for this competition will be a 400 m x 400 m square which is split into a 40x40 grid. Some squares of the grid are assigned a value based on the following key :
- ![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.003.png)
+ ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.003.png)
 To score a point, you will need to be above the grid’s center with a tolerance of 2.5m. Starting at (0,0), Teams have a total run time of 30 seconds, over which the team will have to collect points by flying over the grid squares. The team with the maximum score wins.
 
 Attached below is the grid we will be using.A higher-quality image can be found [here](https://drive.google.com/file/d/11Hzk64UPHZFR-3z71hd3HYkumrHc5HY2/view?usp=sharing).
 
-![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.006.png)
+![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.006.png)
 
 Trajectory Construction:
 
@@ -35,11 +35,11 @@ The following are the basic ground rules which need to be established before any
 1) Submissions will be judged objectively. The package has its own algorithm to output marks based on controller parameters.
 1) You are not supposed to modifythe pieces of code that have not been indicated in the comments. We will comment on which parts can be edited and we are listing them here:-
 
-![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.008.png)
+![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.008.png)
 
 this is the controller.m PID section
 
-![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.009.jpeg)
+![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.009.jpeg)
 
 5) This is traj\_line.m, these are the only places where changes are allowed, and if this is violated, severe penalties will follow.
 5) Participants cannot change the Simulator’s Dynamic parameters (mass, thrust. gravity, etc.)
@@ -102,6 +102,7 @@ Submission:
 - Every two Hour delay after 11 am (1st April) leads to half the points the deducted
 - Submission after 6 hours of deadline closure not entertained
 
-In case of any queries, please contact: ![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.010.png)Aman Malekar [7972780001]
+In case of any queries, please contact: ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.010.png)</br>
+Aman Malekar [7972780001]
 
 ![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.011.png)
