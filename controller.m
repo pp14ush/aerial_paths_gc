@@ -20,20 +20,16 @@ function [F, M] = controller(t, state, des_state, params)
 
 
 % Gains
+%for GC in this file this part (the gains) is the only thing that you are allowed to change, any other changes would lead to penalty/disqualification
+%editable part starts here
 Kd=[3; 3; 15;];
 Kp=[100; 100; 2000];
 Kd_ang=[5; 5; 5];
 Kp_ang=[700; 700; 700];
+%editable part ends here
 
 
 
-%3. Change only kph to 800. runsim- now the quad is going straight up
-
-%4. Now change kppsi- to 160. runsim- now the quad is going up and then turn the wrong way.
-
-%5. Now change both kptheta, and kph, to 160. runsim- now the quad is moving sort of to the right place...
-
-%6. continue from there on your own :)
 
 
 
