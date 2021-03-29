@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
- <img align="center"  src="/bg_doc/Aero GC-01.png">
+ <img align="center" width="500 px" height="500 px" src="/bg_doc/Aero GC-01.png">
 </p>
 
 
