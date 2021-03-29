@@ -6,6 +6,11 @@
 </br>
 </br>
 
+<p align="center">
+ <img align="center"  src="/bg_doc/Aero GC-01.png">
+</p>
+
+
 ## Problem Statement
 
 ### Introduction:
