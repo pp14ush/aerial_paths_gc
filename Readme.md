@@ -1,6 +1,5 @@
- <img align="left"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png">  <img align="right"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png"> </br>
- 
- 
+<img align="left"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png">  <img align="right"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png"> 
+<p></p> 
 # Aeromodelling GC 2021
 
 ## Problem Statement
@@ -109,4 +108,6 @@ This is a mid-prep GC and according to the guidelines a maximum of 125 points wi
 In case of any queries, please contact: ![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.010.png)</br>
 Aman Malekar [7972780001]</br>
 
-<img align="center"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.011.png">
+<p align="center>
+ <img align="center"  src="/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.011.png">
+</p>
