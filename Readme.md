@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png)![](Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)
+﻿![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.001.png)![](/bg_doc/Aspose.Words.8b9358e1-8bae-41b3-a854-82b21b7030e6.002.png)
 
 Aeromodelling GC 2021
 
