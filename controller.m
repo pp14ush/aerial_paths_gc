@@ -22,8 +22,8 @@ function [F, M] = controller(t, state, des_state, params)
 % Gains
 %for GC in this file this part (the gains) is the only thing that you are allowed to change, any other changes would lead to penalty/disqualification
 %editable part starts here
-Kd=[3; 3; 15;];
-Kp=[100; 100; 2000];
+Kd=[50; 50; 50;];
+Kp=[200; 200; 200];
 Kd_ang=[5; 5; 5];
 Kp_ang=[700; 700; 700];
 %editable part ends here
